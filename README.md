@@ -15,6 +15,7 @@
 </p>
 
 ### Where you can find me:
+
 <p align="left">
     <a href="https://github.com/LoweSimon">
       <img src="https://skillicons.dev/icons?i=github" />
