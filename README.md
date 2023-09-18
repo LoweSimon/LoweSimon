@@ -15,17 +15,18 @@
 </p>
 
 ### Where you can find me:
-
-<p align="left">
-    <a href="https://github.com/LoweSimon">
-      <img src="https://skillicons.dev/icons?i=github" />
-    </a>
-</p>
-<p align="left">
-    <a href="https://www.linkedin.com/in/simon-lowe-49799688">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-</p>
+<div>
+    <p align="left">
+        <a href="https://github.com/LoweSimon">
+          <img src="https://skillicons.dev/icons?i=github" />
+        </a>
+    </p>
+    <p align="left">
+        <a href="https://www.linkedin.com/in/simon-lowe-49799688">
+          <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+    </p>
+</div>
 
 <!--
 **LoweSimon/LoweSimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
