@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!)](https://git.io/typing-svg)
 
 ## I'm Simon Lowe, a budding full-stack web developer interested in all things web related. I'm a geek at heart who enjoys playing video games and tabletop games (Dungeons & Dragons).
 
