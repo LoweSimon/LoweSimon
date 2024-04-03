@@ -3,7 +3,7 @@
 ## I'm Simon Lowe, a budding full-stack web developer interested in all things web related. I'm a geek at heart who enjoys playing video games and tabletop games (Dungeons & Dragons).
 
 
-- 🔭 I’m currently working on <a href="https://github.com/LoweSimon/HobbyPaintInventoryAndComparison">a miniature hobby community website</a>
+- 🔭 I’m currently working on <a href="https://github.com/LoweSimon/sml-web-development">my personal website</a>
 - 🌱 I’m currently learning full-stack development, currently using the MERN stack.
 
 ### My toolset includes:
