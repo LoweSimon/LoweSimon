@@ -9,7 +9,7 @@
 ### My toolset includes:
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,mongodb,nodejs,git,vscode" />   
+    <img src="https://skillicons.dev/icons?i=js,html,css,wordpress,php,tailwind,react,mongodb,nodejs,git,vscode" />   
 </p>
 
 ### Where you can find me:
