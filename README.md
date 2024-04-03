@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on <a href="https://github.com/LoweSimon/sml-web-development">my personal website</a>
-- 🌱 I’m currently learning full-stack development, currently using the MERN stack.
+- 🌱 I’m currently learning full-stack development and WordPress Development.
 
 ### My toolset includes:
 
