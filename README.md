@@ -3,8 +3,8 @@
 ## I'm Simon Lowe, a budding full-stack web developer interested in all things web related. I'm a geek at heart who enjoys playing video games and tabletop games (Dungeons & Dragons).
 
 
-- 🔭 I’m currently working on <a href="https://github.com/LoweSimon/sml-web-development">my personal website</a>
-- 🌱 I’m currently learning full-stack development and WordPress Development.
+- 🔭 I’m currently working on <a href="https://github.com/LoweSimon/TFD-Project.git">a project based on The First Descendant</a>.
+- 🌱 I’m currently learning full-stack development.
 
 ### My toolset includes:
 
